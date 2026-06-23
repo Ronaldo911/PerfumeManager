@@ -1,0 +1,32 @@
+ID,Code,Categorie,Nom,Qualite,Genre,Saison,Quantite_ML,CUMP,Valeur_Stock_Totale,Date_Derniere_MAJ,Image_Path
+INV-SYM-IDE,PAR-SYM,Parfum Fini,Symphony Louis Vuitton,Identique,Homme,Été,4.0,11.1,44.4,2026-06-23 22:40:29,
+INV-SYM-IDE,BAS-SYM,Base Parfum,Symphony Louis Vuitton,Identique,Homme,Été,20.0,0.35,7.0,2026-06-23 22:40:29,
+INV-VAL-TOP,PAR-VAL,Parfum Fini,Valaya Exclusif Parfums de Marly,Top,Femme,Été,5.0,9.4,47.0,2026-06-23 22:40:29,
+INV-VAL-TOP,BAS-VAL,Base Parfum,Valaya Exclusif Parfums de Marly,Top,Femme,Été,0.0,0.27,0.0,2026-06-23 22:40:29,
+INV-PAC-IDE,PAR-PAC,Parfum Fini,Pacific Chill Louis Vuitton,Identique,Homme,Été,5.0,11.0,55.0,2026-06-23 22:40:29,data\images\1300602A_louis-vuitton-pacific-chill---LP0460_PM2_Front view.png
+INV-PRA-TOP,PAR-PRA,Parfum Fini,Prada L'Homme Prada,Top,Homme,Été,4.0,9.5,38.0,2026-06-23 22:40:29,
+INV-GUI-TOP,PAR-GUI,Parfum Fini,Guidance 46 Amouage,Top,Femme,Hiver,4.0,9.5,38.0,2026-06-23 22:40:29,
+INV-PAC-IDE,BAS-PAC,Base Parfum,Pacific Chill Louis Vuitton,Identique,Homme,Été,0.0,0.35,0.0,2026-06-23 22:40:29,data\images\1300602A_louis-vuitton-pacific-chill---LP0460_PM2_Front view.png
+INV-PRA-TOP,BAS-PRA,Base Parfum,Prada L'Homme Prada,Top,Homme,Été,20.0,0.27,5.4,2026-06-23 22:40:29,
+INV-FLA-NA,FLA-FLA,Flacon,Flacon 60 ML,,Mixte,Toutes Saisons,24.0,2.8,67.19999999999999,2026-06-23 22:40:29,data\images\45CD1000_site-fotos-10-69e240f153def_mini-Photoroom.png
+INV-HAC-IDE,PAR-HAC,Parfum Fini,Hacivat Nishane,Identique,Homme,Été,4.0,10.1,40.4,2026-06-23 22:40:29,
+INV-PUR-TOP,PAR-PUR,Parfum Fini,Pure Musc For Her Narciso Rodriguez,Top,Femme,Été,4.0,9.5,38.0,2026-06-23 22:40:29,
+INV-LE -TOP,PAR-LE ,Parfum Fini,Le Beau Paradise Garden,Top,Homme,Été,2.0,9.5,19.0,2026-06-23 22:40:29,data\images\898B1DD3_jean-paul-gaultier-le-beau-paradise-garden-eau-de-parfum-removebg-preview.png
+INV-IMA-TOP,PAR-IMA,Parfum Fini,Imagination Louis Vuitton,Top,Homme,Été,5.0,9.4,47.0,2026-06-23 22:40:29,
+INV-PUR-TOP,BAS-PUR,Base Parfum,Pure Musc For Her Narciso Rodriguez,Top,Femme,Été,20.0,0.27,5.4,2026-06-23 22:40:29,
+INV-IMA-TOP,BAS-IMA,Base Parfum,Imagination Louis Vuitton,Top,Homme,Été,0.0,0.27,0.0,2026-06-23 22:40:29,
+INV-LE -TOP,BAS-LE ,Base Parfum,Le Beau Paradise Garden,Top,Homme,Été,20.0,0.27,5.4,2026-06-23 22:40:29,data\images\898B1DD3_jean-paul-gaultier-le-beau-paradise-garden-eau-de-parfum-removebg-preview.png
+INV-ALC-NA,ALC-ALC,Alcool,Alcool,,Mixte,Toutes Saisons,1080.0,0.02,21.6,2026-06-23 22:40:29,data\images\2F7B8FB1_70__Ethyl_Alcohol-removebg-preview.png
+INV-VAL-TOP,PAR-VAL,Parfum Fini,Valentino Uomo Born In Roma Intense,Top,Homme,Été,3.0,9.5,28.5,2026-06-23 22:40:29,data\images\1607009B_uomo-born-in-roma.jpg
+INV-HAC-IDE,BAS-HAC,Base Parfum,Hacivat Nishane,Identique,Homme,Été,20.0,0.3,6.0,2026-06-23 22:40:29,
+INV-YUM-EXT,PAR-YUM,Parfum Fini,Yum Boujee Marshmallow KAYALI,Extra,Femme,Été,2.0,12.1,24.2,2026-06-23 22:40:29,
+INV-DIO-TOP,PAR-DIO,Parfum Fini,Dior Sauvage,Top,Homme,Toutes Saisons,5.0,9.4,47.0,2026-06-23 22:40:29,data\images\B481D6CF_sauvage-dior-extrait-de-parfum-pour-homme.jpg
+INV-VAL-TOP,PAR-VAL,Parfum Fini,Valaya Parfums de Marly,Top,Femme,Été,5.0,9.4,47.0,2026-06-23 22:40:29,
+INV-VAL-TOP,BAS-VAL,Base Parfum,Valentino Uomo Born In Roma Intense,Top,Homme,Été,20.0,0.27,5.4,2026-06-23 22:40:29,data\images\1607009B_uomo-born-in-roma.jpg
+INV-YUM-EXT,BAS-YUM,Base Parfum,Yum Boujee Marshmallow KAYALI,Extra,Femme,Été,20.0,0.4,8.0,2026-06-23 22:40:29,
+INV-FLA-NA,FLA-FLA,Flacon,Flacon a sertir 50 ML,,Mixte,Toutes Saisons,16.0,3.5,56.0,2026-06-23 22:40:29,data\images\BD6E5E7E_Flacon-de-parfum-a-sertir-22Classic22-50ml-2-removebg-preview.png
+INV-YAR-TOP,PAR-YAR,Parfum Fini,Yara Elixir Lattafa Perfumes,Top,Femme,Été,4.0,9.4,37.6,2026-06-23 22:40:29,
+INV-DIO-TOP,BAS-DIO,Base Parfum,Dior Sauvage,Top,Homme,Toutes Saisons,0.0,0.27,0.0,2026-06-23 22:40:29,data\images\B481D6CF_sauvage-dior-extrait-de-parfum-pour-homme.jpg
+INV-VAL-TOP,BAS-VAL,Base Parfum,Valaya Parfums de Marly,Top,Femme,Été,0.0,0.27,0.0,2026-06-23 22:40:30,
+INV-YAR-TOP,BAS-YAR,Base Parfum,Yara Elixir Lattafa Perfumes,Top,Femme,Été,0.0,0.27,0.0,2026-06-23 22:40:30,
+INV-GUI-TOP,BAS-GUI,Base Parfum,Guidance 46 Amouage,Top,Femme,Hiver,20.0,0.27,5.4,2026-06-23 22:40:30,

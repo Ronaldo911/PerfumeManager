@@ -1,0 +1,18 @@
+ID,Date,Categorie,Nom,Qualite,Quantite_ML,Prix_Total,CUMP_Achat,Commentaire,Image_Path,Genre,Saison
+4D5AA0EB,2026-06-10,Alcool,Alcool,,3000.0,60.0,0.02,,data\images\2F7B8FB1_70__Ethyl_Alcohol-removebg-preview.png,,
+F41981A5,2026-06-10,Base Parfum,Dior Sauvage,Top,100.0,27.0,0.27,,data\images\B481D6CF_sauvage-dior-extrait-de-parfum-pour-homme.jpg,Homme,Toutes Saisons
+C1456E62,2026-06-10,Base Parfum,Imagination Louis Vuitton,Top,100.0,27.0,0.27,Import Excel,,Homme,Été
+B524312A,2026-06-10,Base Parfum,Pacific Chill Louis Vuitton,Identique,100.0,35.0,0.35,Import Excel,data\images\1300602A_louis-vuitton-pacific-chill---LP0460_PM2_Front view.png,Homme,Été
+373FA7AA,2026-06-10,Base Parfum,Prada L'Homme Prada,Top,100.0,27.0,0.27,Import Excel,,Homme,Été
+2775A809,2026-06-10,Base Parfum,Hacivat Nishane,Identique,100.0,30.0,0.3,Import Excel,,Homme,Été
+2284F56D,2026-06-10,Base Parfum,Le Beau Paradise Garden,Top,100.0,27.0,0.27,Import Excel,data\images\898B1DD3_jean-paul-gaultier-le-beau-paradise-garden-eau-de-parfum-removebg-preview.png,Homme,Été
+4DB70AB9,2026-06-10,Base Parfum,Valentino Uomo Born In Roma Intense,Top,100.0,27.0,0.27,Import Excel,data\images\1607009B_uomo-born-in-roma.jpg,Homme,Été
+5D5FD0DD,2026-06-10,Base Parfum,Symphony Louis Vuitton,Identique,100.0,35.0,0.35,Import Excel,,Homme,Été
+144F7640,2026-06-10,Base Parfum,Yara Elixir Lattafa Perfumes,Top,100.0,27.0,0.27,Import Excel,,Femme,Été
+8CA18430,2026-06-10,Base Parfum,Pure Musc For Her Narciso Rodriguez,Top,100.0,27.0,0.27,Import Excel,,Femme,Été
+0B7AA9FA,2026-06-10,Base Parfum,Yum Boujee Marshmallow KAYALI,Extra,100.0,40.0,0.4,Import Excel,,Femme,Été
+DEF1FAB9,2026-06-10,Base Parfum,Guidance 46 Amouage,Top,100.0,27.0,0.27,Import Excel,,Femme,Hiver
+C757B1CA,2026-06-10,Base Parfum,Valaya Exclusif Parfums de Marly,Top,100.0,27.0,0.27,Import Excel,,Femme,Été
+8BCAABC1,2026-06-10,Base Parfum,Valaya Parfums de Marly,Top,100.0,27.0,0.27,Import Excel,,Femme,Été
+4A57CB91,2026-06-10,Flacon,Flacon a sertir 50 ML,,72.0,252.0,3.5,,data\images\BD6E5E7E_Flacon-de-parfum-a-sertir-22Classic22-50ml-2-removebg-preview.png,,
+4C83F45A,2026-06-10,Flacon,Flacon 60 ML,,30.0,84.0,2.8,,data\images\45CD1000_site-fotos-10-69e240f153def_mini-Photoroom.png,,

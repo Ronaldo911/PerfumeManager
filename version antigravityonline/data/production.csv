@@ -1,0 +1,21 @@
+ID,Date,Nom_Base,Qualite_Base,Quantite_Base_ML,Quantite_Alcool_ML,Nom_Flacon,Taille_Flacon,Quantite_Flacons,Nom_Parfum,Cout_Base,Cout_Alcool,Cout_Flacon,Cout_Total,Cout_Unitaire,Nom_Alcool,Type_Production
+DFF7C5C7,2026-06-22,Dior Sauvage,Top,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Dior Sauvage,21.6,2.4,14.0,38.0,9.5,Alcool,Fini
+D23E4BF5,2026-06-22,Le Beau Paradise Garden,Top,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Le Beau Paradise Garden,21.6,2.4,14.0,38.0,9.5,Alcool,Fini
+63964D25,2026-06-22,Pacific Chill Louis Vuitton,Identique,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Pacific Chill Louis Vuitton,28.0,2.4,14.0,44.4,11.1,Alcool,Fini
+06BF5489,2026-06-10,Yum Boujee Marshmallow KAYALI,Extra,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Yum Boujee Marshmallow KAYALI,32.0,2.4,14.0,48.4,12.1,Alcool,Fini
+7345D843,2026-06-10,Prada L'Homme Prada,Top,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Prada L'Homme Prada,21.6,2.4,14.0,38.0,9.5,Alcool,Fini
+AB87246C,2026-06-10,Valaya Parfums de Marly,Top,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Valaya Parfums de Marly,21.6,2.4,14.0,38.0,9.5,Alcool,Fini
+47FBDFEC,2026-06-10,Valaya Exclusif Parfums de Marly,Top,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Valaya Exclusif Parfums de Marly,21.6,2.4,14.0,38.0,9.5,Alcool,Fini
+22DCD297,2026-06-10,Imagination Louis Vuitton,Top,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Imagination Louis Vuitton,21.6,2.4,14.0,38.0,9.5,Alcool,Fini
+80361940,2026-06-10,Symphony Louis Vuitton,Identique,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Symphony Louis Vuitton,28.0,2.4,14.0,44.4,11.1,Alcool,Fini
+EC8B9E40,2026-06-10,Yara Elixir Lattafa Perfumes,Top,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Yara Elixir Lattafa Perfumes,21.6,2.4,14.0,38.0,9.5,Alcool,Fini
+26AFD0BF,2026-06-10,Valentino Uomo Born In Roma Intense,Top,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Valentino Uomo Born In Roma Intense,21.6,2.4,14.0,38.0,9.5,Alcool,Fini
+1829A72F,2026-06-10,Pure Musc For Her Narciso Rodriguez,Top,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Pure Musc For Her Narciso Rodriguez,21.6,2.4,14.0,38.0,9.5,Alcool,Fini
+1C0987C8,2026-06-10,Guidance 46 Amouage,Top,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Guidance 46 Amouage,21.6,2.4,14.0,38.0,9.5,Alcool,Fini
+2D785C3F,2026-06-10,Hacivat Nishane,Identique,80.0,120.0,Flacon a sertir 50 ML,50 ML,4.0,Hacivat Nishane,24.0,2.4,14.0,40.4,10.1,Alcool,Fini
+817888D2,2026-06-10,Dior Sauvage,Top,20.0,40.0,Flacon 60 ML,60 ML,1.0,Dior Sauvage,5.4,0.8,2.8,9.0,9.0,Alcool,Fini
+F30C481F,2026-06-10,Valaya Parfums de Marly,Top,20.0,40.0,Flacon 60 ML,60 ML,1.0,Valaya Parfums de Marly,5.4,0.8,2.8,9.0,9.0,Alcool,Fini
+08D7EC22,2026-06-10,Valaya Exclusif Parfums de Marly,Top,20.0,40.0,Flacon 60 ML,60 ML,1.0,Valaya Exclusif Parfums de Marly,5.4,0.8,2.8,9.0,9.0,Alcool,Fini
+F5636928,2026-06-10,Pacific Chill Louis Vuitton,Identique,20.0,40.0,Flacon 60 ML,60 ML,1.0,Pacific Chill Louis Vuitton,7.0,0.8,2.8,10.6,10.6,Alcool,Fini
+8B7544C7,2026-06-10,Imagination Louis Vuitton,Top,20.0,40.0,Flacon 60 ML,60 ML,1.0,Imagination Louis Vuitton,5.4,0.8,2.8,9.0,9.0,Alcool,Fini
+165236B1,2026-06-10,Yara Elixir Lattafa Perfumes,Top,20.0,40.0,Flacon 60 ML,60 ML,1.0,Yara Elixir Lattafa Perfumes,5.4,0.8,2.8,9.0,9.0,Alcool,Fini

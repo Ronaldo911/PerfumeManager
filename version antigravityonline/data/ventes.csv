@@ -1,0 +1,7 @@
+ID,Date,Client,Type_Vente,Nom_Parfum,Qualite,Taille,Quantite,Prix_Unitaire,Type_Remise,Remise,CA_Avant,CA_Reel,Montant_Recu,Cout_Revient,Marge
+A9C6A635,2026-06-22,CLI-001 - Zied Souissi,Stock,Le Beau Paradise Garden,Top,50 ML,1.0,20.0,TND,0.0,20.0,20.0,0.0,9.5,10.5
+DFF4AE72,2026-06-22,CLI-001 - Zied Souissi,Stock,Yum Boujee Marshmallow KAYALI,Extra,50 ML,1.0,20.0,TND,0.0,20.0,20.0,0.0,12.1,7.9
+A0D9B68F,2026-06-22,CLI-001 - Zied Souissi,Stock,Valentino Uomo Born In Roma Intense,Top,50 ML,1.0,20.0,TND,0.0,20.0,20.0,0.0,9.5,10.5
+EB47F9E3,2026-06-22,CLI-002 - Ahmed Feki,Stock,Le Beau Paradise Garden,Top,50 ML,1.0,20.0,TND,0.0,20.0,20.0,20.0,9.5,10.5
+86E5B971,2026-06-22,Anonyme,Stock,Yara Elixir Lattafa Perfumes,Top,50 ML,1.0,30.0,TND,0.0,30.0,30.0,30.0,9.4,20.6
+D1E11E69,2026-06-23,Anonyme,Stock,Yum Boujee Marshmallow KAYALI,Extra,50 ML,1.0,30.0,TND,0.0,30.0,30.0,30.0,12.1,17.9
